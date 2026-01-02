@@ -56,5 +56,4 @@ mobileBtn.addEventListener('click', () => {
     // Toggle hidden class
     mobileMenu.classList.toggle('hidden');
     
-    // Optional: Change icon (you can add logic here to switch between menu and X icon)
 });
